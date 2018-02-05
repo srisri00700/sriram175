@@ -15,5 +15,4 @@ if(largest<array[i])
 largest=array[i];
 }
 printf("\n largest number in the array=%d",largest);
-getch();
 }
