@@ -9,8 +9,5 @@ for(i=0;i<size,i++)
 sacnf("%d",&a[i]);
 }
 for(i=0;i<size;i++)
-{
-printf("%d,%d",array[i],i);
-}
 getch();
 }
