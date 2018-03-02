@@ -21,5 +21,5 @@ else
 {
 printf("the string is equal");
 }
-return 0;
+getch()
 }
