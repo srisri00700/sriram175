@@ -17,4 +17,5 @@ sum=sum+a[i];
 avg=sum/n;
 printf("\nThe average value is %f:",avg);
 return 0;
+  getch();
 }
