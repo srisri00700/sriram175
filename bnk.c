@@ -16,5 +16,5 @@ int main()
 	    {
 	        printf("%d is not a power of 2",n);
 	    }
-	return 0;
+	
 }
